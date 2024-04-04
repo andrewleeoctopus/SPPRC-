@@ -1,0 +1,28 @@
+targets:
+  - index: 1
+    position: [2.0, 2.0]
+    time_window: 8
+  - index: 2
+    position: [2.0, -2.0]
+    time_window: 8
+  - index: 3
+    position: [-2.0, 0.0]
+    time_window: 20
+  - index: 4
+    position: [0.0, 1.0]
+    time_window: 20
+  - index: 5
+    position: [ 0.0, 5.0 ]
+    time_window: 30
+  - index: 6
+    position: [ -3.0, 2.0 ]
+    time_window: 30
+  - index: 7
+    position: [ -2.0, 3.0 ]
+    time_window: 30
+
+charge_stations:
+  - index: A
+    position: [0.0, -2.0]
+  - index: B
+    position: [ 0.0, 3.0 ]
